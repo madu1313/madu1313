@@ -41,3 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rtetg&show_icons=true&locale=en" alt="rtetg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rtetg&" alt="rtetg" /></p>
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%" />
