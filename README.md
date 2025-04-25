@@ -12,33 +12,31 @@
 
 <img src="https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">
 
-- 👋 Meu nome é Juliana Silva, mas podem me chamar de Ju.  
-- 🔹 Pronomes: ela/dela.  
-- 🌍 Localização: São Paulo, Brasil.  
-- 📚 **Estudante de Engenharia da Computação** na UNIVESP, com dupla diplomação em Tecnologia da Informação com ênfase em IoT.  
-- 💼 **Estagiária de Desenvolvimento de Software no Itaú Unibanco** – foco em soluções para Data Center, desenvolvimento web e Python, com uso de Cloud Computing.  
+- 👋 My name is Maduwanthi Lakshika  
+- 🌍 Location: Sri Lanka.  
+- 🎓 **Followed Higher National Diploma in Information Technology at SLIATE, Badulla.**
+- 💼 **Junior Web Developer at Spark Global Solutions** – focusing on web development.
+ 
 
 <h3 align="center">💻 Skills e Tecnologias:</h3>
 
-- **Linguagens**: Python, Java, JavaScript  
-- **Frameworks**: Spring Boot, Angular, Bootstrap  
-- **Cloud**: AWS, Azure  
-- **Ferramentas**: Git, GitHub, MySQL  
-- **Metodologias Ágeis**: Kanban, Scrum, Design Thinking
+- **Languages**: PHP, JavaScript, Node.js  
+- **Frameworks**: React.js, Next.js, Bootstrap  
+- **Databases**: MySQL, PostgreSQL, Firebase  
+- **Cloud**: AWS 
+- **Tools**: Git, GitHub  
+- **Communication Technologies**: WebRTC, Socket.io, Peer-to-Peer Connection  
+- **Payment Gateway**: (Payhere)
   
 <h3 align="center">📝 Certificações</h3>
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/users/madu1313)
-- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/madu1313/7EEC9066F6848D6E?sharingId=EA7E5417E2FF5F20).
-- [Oracle Cloud Infrastructure Foundation 2023](https://www.credly.com/users/madu1313)
-- [GitHub Foundations](https://www.credly.com/users/madu1313)
-- Acesse todas minhas certificações aqui: [Credly](https://www.credly.com/users/madu1313)
+
 
 <div align="center">
-<h3 align="center">📧 Conecte-se comigo</h3>
-<a href="https://www.linkedin.com/in/julianatadeudasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://discord.gg/madu1313#2841" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="mailto:julianastankovic@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<h3 align="center">📧 Connect with me</h3>
+<a href="https://lk.linkedin.com/in/maduwanthi-lakshika-896517239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="mailto:maduwanthispark@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 </div>
 
